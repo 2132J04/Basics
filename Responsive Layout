@@ -1,0 +1,18 @@
+<!Doctype html>
+<html>
+<head>
+<body>
+<meta charset="utf-8>
+<title>Responsive layout</title>
+<style>
+p{
+ width:85%;
+ height:75%;
+ background-color:#A52A2A;
+ }
+h1{
+ margin-bottom:20px;
+ }
+</style>
+</head>
+</body>
